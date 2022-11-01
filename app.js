@@ -153,6 +153,8 @@ function newsDetail() {
 function router() {
   const routePath = location.hash;
 
+  console.log(routePath.indexOf('#/page/'))
+
   if (routePath === '') {
     newsFeed();
   } else if (routePath.indexOf('#/page/') >= 0) {
