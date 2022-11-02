@@ -1,0 +1,6 @@
+
+###
+Get https://api.hnpwa.com/v0/news/1.json HTTP/1.1
+
+###
+GET https://api.hnpwa.com/v0/item/33432720.json HTTP/1.1
