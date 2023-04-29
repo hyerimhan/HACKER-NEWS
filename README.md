@@ -6,7 +6,7 @@
 
 ## :pencil2: 학습 목적
 
-- 리액트로 [framer motion](https://www.framer.com/motion/)을 활용하여 실습해보기.
+- Vanilla JS
 
 <br />
 
@@ -17,3 +17,5 @@
 <br />
 
 ## :book: 학습 내용
+
+-
