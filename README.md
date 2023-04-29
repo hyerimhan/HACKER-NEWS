@@ -10,7 +10,7 @@
 
 <br />
 
-## :pushpin: 사용한 라이브러리
+## :pushpin: Stacks
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-round&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-round&logo=typescript&logoColor=white"/>
 
